@@ -20,6 +20,7 @@ IGV downloaded on your system
 ### Use: 
   - Open IGV and load in the genome that your blast results are from by going to `Genome>Load Genome From File...>`
   - Load in your gff file by going to `File>Load from File...`
+  - Matches will be displayed, colored to their match percentage, with a gradient from green (100%) to red (80%)
 
 ### Bugs/Limitations
   - I was unable to display # of reads supporting each TelContig/SubTelContig and # of blast alignments to genome for each Tel/SubTelContig as the calculations I wrote looks at each line individually before writing it to the gff. Displaying these would require looking at the file as a whole before adding data to each individual lines.
