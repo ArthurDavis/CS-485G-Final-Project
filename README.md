@@ -9,14 +9,13 @@ Python 3.0 or newer (I used 3.8.2)
 IGV downloaded on your system
 ```
 ### Setup
-Download [IGV](https://software.broadinstitute.org/software/igv/download)
-
-Download [Python 3.x](https://www.python.org/downloads/)
+- Download [IGV](https://software.broadinstitute.org/software/igv/download)
+- Download [Python 3.x](https://www.python.org/downloads/)
 
 ### Inputs/Outputs and How to Run
-Inputs: `blast2gff.py` and `FILE.bln6`
-How to run: `py blast2gff.py FILE.bln6`
-Output: `results.gff`
+- Inputs: `blast2gff.py` and `FILE.bln6`
+- How to run: `py blast2gff.py FILE.bln6`
+- Output: `results.gff`
 
 ### Use: 
   - Open IGV and load in the genome that your blast results are from by going to `Genome>Load Genome From File...>`
