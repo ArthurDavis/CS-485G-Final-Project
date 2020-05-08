@@ -1,6 +1,5 @@
 # Blast2GFF
 This program takes format 6 of blast output and converts the information to a gff file for use in a genome browser. This is part of a project to identify and assemble telemeres. This is the final step after Alex Schuster's part, found [here](https://github.com/apschuster/CS485GFinalProject).
-## Getting Started
 
 ### Prerequisites
 ```
