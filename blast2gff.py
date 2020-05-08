@@ -1,7 +1,5 @@
 import re
 import sys
-import csv
-import os
 
 def main():
   if (len(sys.argv)==1):
